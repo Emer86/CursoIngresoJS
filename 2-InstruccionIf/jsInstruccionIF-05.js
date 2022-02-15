@@ -1,3 +1,6 @@
+/* Altamiranda Emerson 
+  -Ejercicio IF 5
+               */
 function mostrar()
 {
 	let edad;
